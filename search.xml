@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/07/04/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>FirstTest</title>
     <url>/2020/07/15/First-Test/</url>
     <content><![CDATA[<p>this is just a test<br>you must know</p>
@@ -99,6 +81,32 @@
 ]]></content>
       <tags>
         <tag>刷题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LeetCode高频面试题汇总</title>
+    <url>/2020/07/15/LeetCode%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+    <content><![CDATA[<h2 id="LeetCode高频面试题汇总"><a href="#LeetCode高频面试题汇总" class="headerlink" title="LeetCode高频面试题汇总"></a>LeetCode高频面试题汇总</h2><h3 id="动态规划"><a href="#动态规划" class="headerlink" title="动态规划"></a>动态规划</h3><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830356992_26B22FDCA14CCC71D9C5AED4C51B038C" alt="img"></strong></p>
+<h3 id="堆"><a href="#堆" class="headerlink" title="堆"></a><strong>堆</strong></h3><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830378686_2F12CDAEBDC3554DF96F114FC25AF0CA" alt="img"></strong></p>
+<p><strong>二叉树</strong></p>
+<p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830416215_69B05851F2FE58A175066F1E5DA68C38" alt="img"></strong></p>
+<h4 id="二分查找"><a href="#二分查找" class="headerlink" title="二分查找"></a><strong>二分查找</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830438206_2DED0BE4AF3760A39EADD3F7B142C0CE" alt="img"></strong></p>
+<h4 id="广度优先搜索"><a href="#广度优先搜索" class="headerlink" title="广度优先搜索"></a><strong>广度优先搜索</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830460438_7CA6198DDBED14EBAC4EB3A931025979" alt="img"></strong></p>
+<h4 id="哈希表"><a href="#哈希表" class="headerlink" title="哈希表"></a><strong>哈希表</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830476289_917532E4CCA96E15E5ABCCCBCA30C9F8" alt="img"></strong></p>
+<h4 id="回溯算法"><a href="#回溯算法" class="headerlink" title="回溯算法"></a><strong>回溯算法</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830492157_2218B69A72F37F724F78897F5FDD823E" alt="img"></strong></p>
+<h4 id="链表"><a href="#链表" class="headerlink" title="链表"></a><strong>链表</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830509086_8E72661D2242C40ECD146E2DB6D88051" alt="img"></strong></p>
+<p><strong>设计</strong></p>
+<p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830524598_E19F53D5492F785E2BB3EBDA16F45B21" alt="img"></strong></p>
+<h4 id="深度优先搜索"><a href="#深度优先搜索" class="headerlink" title="深度优先搜索"></a><strong>深度优先搜索</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830548100_401F7030436C0950B3B9C6AFB8906225" alt="img"></strong></p>
+<h4 id="数学"><a href="#数学" class="headerlink" title="数学"></a><strong>数学</strong></h4><h4 id><a href="#" class="headerlink" title></a><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830569455_68EE5EDA726C008847C37EEA04FD5081" alt="img"></strong></h4><h4 id="数组"><a href="#数组" class="headerlink" title="数组"></a><strong>数组</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830591035_8361FA23DFD51FBD74ED3E8B998C124D" alt="img"></strong></p>
+<p><strong>贪心算法</strong></p>
+<p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830607323_849827FAC31010F210BE08F718E4B786" alt="img"></strong></p>
+<h4 id="位运算"><a href="#位运算" class="headerlink" title="位运算"></a><strong>位运算</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830621814_F51A128AC144687722A39909AB36E9E8" alt="img"></strong></p>
+<h4 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a><strong>字符串</strong></h4><p><strong><img src= "/img/loading.gif" data-src="https://uploadfiles.nowcoder.com/images/20190930/7430894_1569830636331_34FCBC856A5DB26274BBD70943733C55" alt="img"></strong></p>
+<p>(以上图片转载自牛客一位好心大佬）<a href="https://ac.nowcoder.com/acm/contest/profile/7430894" target="_blank" rel="noopener">https://ac.nowcoder.com/acm/contest/profile/7430894</a></p>
+]]></content>
+      <tags>
+        <tag>资源</tag>
       </tags>
   </entry>
 </search>
