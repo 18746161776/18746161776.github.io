@@ -19,8 +19,12 @@
 ]]></content>
   </entry>
   <entry>
-    <title>my first</title>
-    <url>/2020/07/14/my-first/</url>
-    <content><![CDATA[]]></content>
+    <title>FirstTest</title>
+    <url>/2020/07/15/First-Test/</url>
+    <content><![CDATA[<p>this is just a test<br>you must know</p>
+]]></content>
+      <tags>
+        <tag>TCP/IP</tag>
+      </tags>
   </entry>
 </search>
